@@ -16,7 +16,7 @@
     "express": "^4.17.1",
     "nanocurrency": "^2.3.0",
     "rate-limiter-flexible": "^1.1.6",
-    "redis": "^2.8.0",
+    "redis": "^3.1.1",
     "util": "^0.12.1",
     "uuid": "^3.3.3",
     "websocket": "^1.0.30"
